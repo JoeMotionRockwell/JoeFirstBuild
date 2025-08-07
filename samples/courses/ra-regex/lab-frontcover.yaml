@@ -1,0 +1,19 @@
+---
+title: "Regular Expressions"
+subtitle: "Using regex in Visual Studio Code"
+author: "2022, Rockwell Automation, all rights reserved"
+toc-title: "Table of Contents"
+# tagline that produces the standard customer training cover page
+tagline:
+    line1: Workforce
+    line2: development
+    line3: Expanding human possibility through learning
+publication:
+    publisher: RAU Internal
+    trainingType: standard course
+    id: TST111
+    revisionDate: '2024-09-12'
+    classification: Internal
+varsGlobal:
+    example: something you want to define once and use repeatedly
+---
